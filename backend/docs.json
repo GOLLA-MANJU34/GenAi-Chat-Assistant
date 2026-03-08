@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Reset Password",
+    "content": "Users can reset their password from Settings > Security."
+  },
+  {
+    "title": "Account Creation",
+    "content": "To create an account, click the Sign Up button on the homepage."
+  },
+  {
+    "title": "Help Center",
+    "content": "The Help Center contains frequently asked questions and troubleshooting guides."
+  },
+  {
+    "title": "Contact Support",
+    "content": "Users can contact support by emailing support@example.com."
+  },
+  {
+    "title": "Update Profile",
+    "content": "Users can update their profile information from the Profile Settings page."
+  },
+  {
+    "title": "Change Email",
+    "content": "Users can change their email address from Account Settings."
+  },
+  {
+    "title": "Two Factor Authentication",
+    "content": "Two factor authentication can be enabled from Security Settings."
+  },
+  {
+    "title": "Cancel Subscription",
+    "content": "Users can cancel their subscription anytime from the Billing section."
+  }
+]

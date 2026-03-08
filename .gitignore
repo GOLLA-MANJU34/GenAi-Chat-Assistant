@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+
+# Environment variables (API keys)
+.env
+
+# Python cache files
+__pycache__/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+
+# Python compiled files
+*.pyc
